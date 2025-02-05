@@ -11,7 +11,6 @@ function Random() {
 
   
   mostrarEnHistorial(num1,num2,num3);
- 
 
 
   numero1.innerHTML = num1;
